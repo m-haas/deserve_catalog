@@ -1,0 +1,151 @@
+Date,Previous source,Source of change,"Location: lat ??N, lon ??E (fake location when changed)",Comment; preferred source if not same as source of change
+1000-1,ZivS,Alx91,"46.0, 14.5 ",?? 
+1000-3-29,Alx90,SG12,"50.3, 4.6 ",?? 
+1007,Hou,Alx90,"50.9, 5.7 ",?? 
+1007,God,GC,"40.5, 43.3 ",duplicate to 1003; God
+1011,CAS,Alx90,"50.7, 15.8",?? 
+1011,GC,Amb09,"39.8, 39.5 ",duplicate to 1045; GC 
+1012,Gru ,Alx90 ,"51.9, 11.2 ",landslide 
+1014-11-18,She,SG12,"50.5, 17.0",duplicate to 1013 and location error
+1016,She,Alx90,"49.5, 20.0",
+1021-5-12,Alx90,SG12,"48.9, 11.4",location error
+1022-5-12,Zsi,SG12,"47.0, 19.0",duplicate to 1021 and location error
+1032,Gru,Alx90,"51.1, 12.8",
+1034-2-17,She,Alx90,"49.0, 18.5",
+1035-5-23,Alx90,SG12,"51.7, 9.4",
+1040-12-25,She,Alx90,"47.0, 20.0",
+1048-10-13,Alx90,SG12,"48.8, 11.6",location error
+1048-10-15,Ley,Alx90,"47.7, 9.2",location error and duplicate to 1048-10-13; SG12
+1048-10-16,Ley,Alx90,"47.7, 9.2",location error and duplicate to 1048-10-13; SG12
+1053,KU,Amb09,"36.2, 36.2",duplicate to 1063-8; SDM
+1062-2-8,Ley,SG12,"47.7, 9.1",
+1068,She,Alx90,"50.5, 12.5",
+1077,ZivS,Alx90,"46.0, 14.5",
+1079-7-17,Gru,Alx90,"50.6, 9.7",
+1081-3-26,ZivS,Alx90,"46.0, 15.0",
+1091,Onc,TA09,"45.7, 26.6",
+1091-11-2,Alx90,SG12,"48.7, 1.6??W",
+1092-2-8,Ley96,Alx90,"47.7, 9.2",
+1093-10-3,HHM,Alx90,"45.5, 12.2 ",
+1094,Gru,Alx90,"51.0, 12.2",
+1095-9-10,Alx90,SG12,"50.6, 4.7",
+1098,Ley,Alx90,"47.5, 7.6",
+1106,HHM,Alx90,"45.5, 12.5",
+1106,KKP,AlbP,"36.1, 36.1","duplicate to 1109 (KKP, no size parameter)"
+1112,Ley,GruRA,"48.4, 8.8",
+1112-4-20,Alx90,SG12,"50.8, 6.1",
+1113,Gru,Alx90,"49.9, 10.9",
+1114-1-7,HHM,Alx90,"46.2, 12.2",
+1115,GC,Amb09,"36.1, 36.1",duplicate to 1114-11-29
+1117-1-3,GC05,GruRA,"48.0, 9.4",confused with earthquake at other location; CPTI04
+1117-5-2,ORB,Alx90,"50.7, 6.8",
+1139-10-12,KKP,GC,"36.1, 37.1",duplicate to 1138-10-11; KKP
+1141-3-26,Gru,SG12,"50.6, 9.7","duplicate to 1141-4-24, no earthquake"
+1142-11-2,ORB,Alx90,"49.1, 6.2",
+1152-9-27,SDM,KKP,"32.6, 36.7",duplicate to 1151-9-28; SDM
+1170-4-1,Onc,TA09,"45.7, 26.6 ",
+1174,Hou,Alx90,"50.9, 5.7",
+1179-8-1,Alx90,SG12,"50.8, 6.1",duplicate to 1180-8-1
+1180-8-1,Alx90,SG12,"47.0, 8.4",location error
+1196,She,Alx90,"49.5, 22.0",
+1198-5-4,She,Alx90,"50.5, 12.5",
+1202,Gru,Alx90,"52.6, 11.9",
+1205,TR-GSHAP,Amb09,"38.7, 35.5",very doubtful
+1212,HHM,Alx90,"45.5, 12.2",
+1233,HHM,Alx90,"45.5, 12.2",
+1256-12-30,She,Alx90,"50.0, 12.0",
+1258-2-7,Zsi,Alx90,"47.0, 19.0",
+1260-3,FA,GC,"32.5, 35.5",duplicate to 1259-3-22; FA
+1275-4-14,God,Amb09,"41.8, 44.6",duplicate to 1283-4-17; God
+1275-10-3,GC,Amb09,"38.9, 42.9",duplicate to 1276-10-3
+1276,Onc,"Alb11, Amb09","44.6, 24.2","Alb11: 1275-10-3, Turkey
+Amb09 (in EMEC): 1276-10-3, Turkey"
+1279-9-2,Ley,GruRA,"49.0, 8.0 ",
+1280,CPTI04,AMM03,"46.0, 13.6",
+1303-8-8,She,GR07,"51.0, 20.0","location error, earthquake near Crete this date; Pdo07"
+1304-8-8,HHM,GR07,"44.0, 14.0",duplicate to 1303-08-08 and location error; Pdo07
+1306-7,CPTI04,GC97,"43.8, 10.5",duplicate to 1303-8-8 and location error; Pdo07
+1319,God,AlbP,"40.4, 43.6",
+1319,God,AlbP,"39.1, 44.5",probably duplicate to previous entry
+1323,Gru,GruRA,"51.2, 12.6",
+1323,Gru,AlxP,"53.2, 10.4",probably fake
+1331-2-12,Pap,Amb09,"40.9, 28.9",duplicate to 1332-2-12
+1346,Gru,GruRA,"50.8, 12.2",duplicate to 1348-1-25 and location error; HL97
+1348,Ley,GML98,"50.1, 7.1",location error (date 1348-1-25); HL97
+1349,Ley,Gru04,"50.8, 6.3",
+1353-1,VF07,VilP,"37.3, 8.1",
+1353-1,GC,Alb11,"43.6, 12.1",duplicate to 1354-3-1; Amb02
+1366-5-24,Gru,GruRA,"50.8, 12.2",location error; GruRA
+1372-2-2,IGC1,Oli06,"42.4, 0.8",duplicate to 1373-3-3; Oli08
+1373-2-2,IGC1,Oli06,"42.5, 0.8",duplicate to 1373-3-3; Oli08
+1374-2-2,IGC1,SisF10,"42.5, 0.8",duplicate to 1373-3-3; Oli08
+1385,Hou,Alx94,"50.9, 5.7",duplicate to 1382-5-21; Mus
+1393-6-11,Hou,Alx94,"50.9, 5.7",duplicate to 1395-6-11; Ley96
+1410-8-23,Gru,GM95,"53.0, 12.2",duplicate to 1409-8-24 and location error
+1412-11-28,Gru,GM95,"53.0, 12.2",storm
+1431-4-24,IGN10,SisF10,"37.1, 3.6??W",
+1444-8-4,Zsi,ACG10,"46.2, 20.2",
+1444-11-10,She,ACG10,"43.5, 23.5",
+1445-2-14,Ley,GFV99,"50.0, 8.3",
+1456-11-29,Ku,Amb09,"32.6, 46.8",duplicate to 1457-4-23 and location error; GC
+1458,TR-GSHAP,Amb09,"39.9, 40.4",duplicate to 1457-4-23; GC
+1471-5,Ley,GF01,"48.8, 10.5",
+1473-8-29,Onc,TA09,"45.7, 26.6",
+1475-8-25,Ley,GFV99,"50.0, 8.5",location error
+1481,GC,Amb09,"39.7, 39.5",duplicate to 1482-11
+1481-3-18,GC,Amb09,"39.7, 39.5",duplicate to 1482-11 and location error
+1502-3-26,HHM,CSZ98,"45.8, 16.1",
+1509,Ku,AlbP,"40.9, 35.2",location error; Amb01d
+1510,HHM,Bos97,"46.1, 14.5",
+1511-8-8,HHM,Cama11,"46.0, 14.0",
+1516-5-6,HHM,Alb04,"42.6, 18.1",
+1551-3-26,HHM,SC97,"46.2, 13.7",duplicate to 1511-03-26
+1556-1-24,HHM,HG10,"47.0, 15.0","mixed with Shaanxi, China earthquake"
+1558-5-17,Gru,GF98b,"50.9, 12.2",storm
+1562,Gru,GruRA,"52.4, 11.5",storm
+1563-3-22,Hou,Dos10,"51.3, 5.7",
+1563-4-30,Hou,Dos10,"51.3, 5.7",
+1571-4-10,Onc,SKH74,"45.5, 24.6",probably duplicate to 1571-5-10; Onc
+1571-11-1,ZAMG09L,Ham11,"47.3, 11.4",
+1572-1-9,GLM,Sie40,"53.0, 18.6",meteor fall
+1576-4-27,Gru,GruRA,"52.1, 11.6",duplicate to 1578-4-27
+1581-3-10,Hou,AlbP,"51.6, 5.9",
+1587-11,VF07,VilP,"37.1, -8.0",storm
+1591,Ley,GF01,"48.8, 11.2",
+1593-2-6,Ley,GF01,"48.8, 10.5",storm
+1595-6,Ley,GF99,"50.0, 7.1",
+1608-5-14,HHM,Alb04,"42.4, 18.7",prob duplicate to 1608-7-25
+1612-10-1,Ley96,VG94,"52.1, 8.7",duplicate to 1612-11-7
+1614-10-4,ECOS-09,Sie40,"47.6, 7.6","doubtful, probably meteor fall"
+1620-12,Zsi,KSh,"45.7, 26.6",duplicate to 1620-11-8; Onc
+1626-7-3,HHM,SC97,"44.0, 14.0",duplicate to 1627-7-30; CPTI04
+1640,Gla,GruRA,"42.3, 22.7",location error; ZivS
+1648-3-31,Ku,AlbP,"38.3, 43.5",duplicate to 1647 (April 2)
+1650,Sul,Alb04,"39.7, 20.0","doubtful, duplicate to 1651-2-26"
+1652-12-10,ECOS-09,SisF10,"47.0, 6.9",
+1654-3-17,ECOS-09,GruRA,"47.0, 9.1",location error
+1664,ECOS-09,SisF10,"47.0, 6.9",
+1666-11,Pap,Alb04,"39.6, 19.8",heavy rain
+1668-8-27,ZAMG09L,LH10,"47.8, 16.2",
+1670-4-12,Ley96,GF01,"49.1, 10.2",
+1690-11-24,Ley96,GF01,"48.9, 10.5",
+1691-2-19,FEN09,WG,"56.2, 14.0",duplicate to 1691-02-17
+1691-2-19,ECOS-09,GruRA,"49.3, 6.5",location error (date 1691-2-20)
+1693-1-19,ECOS-09,SisF10,"46.8, 6.6",
+1693-12-26,Ley,GF02a,"49.7, 10.2",location error
+1714-1-31,Mei95,ORB07,"50.9, 5.7",duplicate to 1714-1-13
+1716-2-3,CPTI04,GruRA,"46.1, 13.6",mixed with Algeria earthquake; Ham
+1733-5-10,Ley,Vog91,"50.0, 8.3",duplicate to 1733-5-18
+1736-11,Gru,Gru06a,"52.6, 11.9",location error
+1752-1-5,FEN09,WG,"56.5, 13.0",duplicate to 1752-1-3
+1755-10-15,ECOS-09,SisF10,"45.6, 5.9",
+1755-12-09,Ley,GF01,"48.8, 10.7",confused with earthquake at other location; ECOS-09
+1755-12-17,ECOS-09,GruRA,"47.6, 8.2",duplicate to 1755-12-27 00:30
+1755-12-18,Hou,GruRA,"50.9, 12.7",duplicate to 1755-12-27 00:30
+1759-6-29,Gla,Gleva10,"42.1, 24.8",
+1772-5-12,Gla,Pap,"39.5, 20.0",duplicate to 1773-5 and location error
+1776-11-28,Ley,GruRA,"47.7, 7.3",duplicate to 1776-12-28
+1777-12-20 ,Ley,GF02b,"47.9, 7.6",location error
+1778-01-28,Ley,GF02b,"47.9, 7.6",location error
+1784-11-12,Ley,SisF10,"49.3, 8.1",
+1789-05-17,Gru,Gru06c,"52.4, 12.4",location error; GruRA (date 1789-5-18)
